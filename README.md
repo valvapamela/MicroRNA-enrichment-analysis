@@ -4,7 +4,7 @@ Top 25 gene-miRNA interactions according to the FDR obtained in the target-enric
 
 [CHC](https://valvapamela.github.io/MicroRNA-enrichment-analysis/NETWORK_CHC.html)
 
-[HCV](https://valvapamela.github.io/MicroRNA-enrichment-analysis/NETWORK_HCV.html)
+[HCV+](https://valvapamela.github.io/MicroRNA-enrichment-analysis/NETWORK_HCV.html)
 
-[HCV/HIV](https://valvapamela.github.io/MicroRNA-enrichment-analysis/NETWORK_HCV_HIV.html)
+[HCV+/HIV+](https://valvapamela.github.io/MicroRNA-enrichment-analysis/NETWORK_HCV_HIV.html)
 
